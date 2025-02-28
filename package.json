@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-BestDreamEver/",
+    "build": "vite build --base=/fs116_html-css_Oksana-Horbachevska/",
     "preview": "vite preview"
   },
   "devDependencies": {
